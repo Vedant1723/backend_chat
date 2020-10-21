@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://vedant1723:vedant1723@cluster0.ctnmq.mongodb.net/DB_CHATBOX?retryWrites=true&w=majority",
+    "jwtSecret": "mySecretToken"
+}
